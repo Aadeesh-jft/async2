@@ -1,0 +1,16 @@
+{
+  "emps": [
+    {
+      "name": "aadeesh",
+      "job": "asdd",
+      "salary": "21",
+      "id": 4
+    },
+    {
+      "name": "abcd",
+      "job": "xyz",
+      "salary": "1234",
+      "id": 5
+    }
+  ]
+}
